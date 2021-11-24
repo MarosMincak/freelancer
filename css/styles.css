@@ -7807,7 +7807,7 @@ textarea.form-control-lg {
 }
 
 .bg-primary {
-  background-color: darkgreen !important;
+  background-color: darkgreen;
 }
 
 /*--bs-primary-rgb: 26, 188, 156;*/
